@@ -1,7 +1,7 @@
 public class Director {
     public void constructSpicyBeefFood(Builder builder)
     {
-        builder.setCarne("vita");
+        builder.setCarne("porc");
         builder.setSos("picant");
         builder.setExtra_topping("");
     }
